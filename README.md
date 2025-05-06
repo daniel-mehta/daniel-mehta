@@ -19,10 +19,17 @@ Some startup experience at Meter — a VC-backed SF company funded by Sam Altman
 - 🎮 Hobbyist with game dev in Unreal Engine — released one game on Itch.io and aiming to launch it on Steam soon
 
 ## 📬 Reach Out  
-- 🖇️ [LinkedIn](https://www.linkedin.com/in/dan-mehta/)
-- 📫 [Email Me](mailto:daniel.mehta@gmail.com)
+<div style="text-align: right;">
+  <a href="mailto:daniel.k.mehta@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/dan-mehta" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 
----
+<hr>
+
 
 Open to roles in ML engineering, data science, or anything exciting in tech.
 
