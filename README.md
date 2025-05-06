@@ -20,7 +20,7 @@ Some startup experience at Meter — a VC-backed SF company funded by Sam Altman
 
 ## 📬 Reach Out  
 <div style="text-align: right;">
-  <a href="mailto:daniel.k.mehta@gmail.com">
+  <a href="mailto:daniel.k.mehta@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/dan-mehta" target="_blank">
