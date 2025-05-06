@@ -1,5 +1,10 @@
 # 👋 Hey, I'm Daniel Mehta
 
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
+</div>
+
 ## 🧠 About Me  
 Wilfrid Laurier CS & UX grad · Current Humber AI & ML postgrad student  
 Former Data Analyst and Database Intern at the Ministry of Education and DPCDSB  
@@ -12,12 +17,6 @@ Some startup experience at Meter — a VC-backed SF company funded by Sam Altman
 - 💸 FinTech and developer productivity  
 - ⚽ Sports analytics (especially fantasy football/soccer)  
 - 🎮 Hobbyist with game dev in Unreal Engine — released one game on Itch.io and aiming to launch it on Steam soon
-
-## 👁️ Profile Views  
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
-</div>
 
 ## 📬 Reach Out  
 - 🖇️ [LinkedIn](https://www.linkedin.com/in/dan-mehta/)
