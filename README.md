@@ -16,6 +16,11 @@ Some startup experience at Meter — a VC-backed SF company funded by Sam Altman
 ## 👁️ Profile Views  
 ![Profile Views](https://komarev.com/ghpvc/?username=daniel-mehta&color=blueviolet&style=flat-square)
 
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
+</div>
+
 ## 📬 Reach Out  
 - 🖇️ [LinkedIn](https://www.linkedin.com/in/dan-mehta/)
 - 📫 [Email Me](mailto:daniel.mehta@gmail.com)
