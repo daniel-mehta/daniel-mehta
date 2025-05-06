@@ -14,8 +14,6 @@ Some startup experience at Meter — a VC-backed SF company funded by Sam Altman
 - 🎮 Hobbyist with game dev in Unreal Engine — released one game on Itch.io and aiming to launch it on Steam soon
 
 ## 👁️ Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=daniel-mehta&color=blueviolet&style=flat-square)
-
 <div align="center"> 
   <p>Visitor count</p>
   <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
