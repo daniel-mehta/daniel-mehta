@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Daniel Mehta
 
 ## 🧠 About Me  
-Wilfrid Laurier CS & UX grad · Humber AI & ML postgrad graduate  
+Wilfrid Laurier CS & UX grad · Humber AI & ML postgrad  
 Former Data Analyst and Database Intern at the Ministry of Education and DPCDSB  
 Some startup experience at Meter, a VC-backed SF company funded by Sam Altman, Sequoia Capital, and Stripe’s founders  
 
@@ -20,7 +20,7 @@ Some startup experience at Meter, a VC-backed SF company funded by Sam Altman, S
 ## 🛠 Tech Stack  
 
 **Languages:**  
-Python · Java · C# · R · Go · Julia · SQL  
+Python · Java · C# · R · Go · Julia · SQL · COBOL
 
 **Machine Learning & AI:**  
 Scikit-learn · TensorFlow · PyTorch · Hugging Face · LangChain · AutoML · AutoGen · Vision-Language Models (VLMs) · OpenCV · PySpark
