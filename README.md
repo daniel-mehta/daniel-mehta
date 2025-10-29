@@ -20,7 +20,7 @@ Some startup experience at Meter, a VC-backed SF company funded by Sam Altman, S
 ## 🛠 Tech Stack  
 
 **Languages:**  
-Python · Java · C# · R · Go · Julia · SQL · COBOL
+Python · Java · C# · R · Go · Julia · SQL · Dart
 
 **Machine Learning & AI:**  
 Scikit-learn · TensorFlow · PyTorch · Hugging Face · LangChain · AutoML · AutoGen · Vision-Language Models (VLMs) · OpenCV · PySpark
