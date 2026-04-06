@@ -1,38 +1,57 @@
 # 👋 Hey, I'm Daniel Mehta
 
 ## 🧠 About Me  
-Wilfrid Laurier CS & UX grad · Humber AI & ML postgrad  
-Former Data Analyst and Database Intern at the Ministry of Education and DPCDSB  
-Some startup experience at Meter, a VC-backed SF company funded by Sam Altman, Sequoia Capital, and Stripe’s founders  
+Applied AI Engineer focused on **LLM systems, APIs, and backend development**  
+
+Wilfrid Laurier CS & UX grad · Humber AI & ML postgrad · Incoming **MSc Artificial Intelligence** student at the **University of Liverpool**  
+
+Previously worked across **AI systems, data, analytics, and internal tools** through roles at **Arrowz**, the **Ontario Ministry of Education**, **DPCDSB**, and **Meter**
 
 ---
 
-## 🔍 Currently Exploring  
-- **Local LLM Deployment** - building privacy-friendly, offline AI solutions with Ollama and LangChain  
-- **Multimodal AI & VLMs** - combining vision and language for practical tools like personal stylists and OCR pipelines  
-- **Advanced Model Optimization** - LoRA fine-tuning, quantization, and efficient transformer training  
-- **Business AI Applications** - PySpark-based customer segmentation and LRFS modeling  
-- **Sports Analytics** - improving predictive accuracy for Fantasy Premier League points  
-- **Game Development** - designing a low-poly survival horror in Unreal Engine 5 for Steam release  
+## 🔍 Interests  
+- **LLM Memory & Agent Systems** - persistent memory, retrieval logic, long-term context, and practical AI workflows  
+- **Multimodal AI & VLMs** - combining vision and language for useful tools and interfaces  
+- **Model Optimization** - fine-tuning, quantization, and efficient inference  
+- **Applied ML Systems** - recommender systems, prediction pipelines, and end-to-end deployment workflows  
+- **Game Development** - building games and interactive systems in Unreal Engine 5  
 
 ---
 
 ## 🛠 Tech Stack  
 
 **Languages:**  
-Python · Java · C# · R · Go · Julia · SQL · Dart
+Python · TypeScript · SQL · Go · Julia · Java · C# · R · Dart
+
+**AI Systems & LLMs:**  
+LLM Pipelines · Prompt Engineering · Conversational Memory Systems · Model Integration · Hugging Face · LangChain
 
 **Machine Learning & AI:**  
-Scikit-learn · TensorFlow · PyTorch · Hugging Face · LangChain · AutoML · AutoGen · Vision-Language Models (VLMs) · OpenCV · PySpark
+PyTorch · Scikit-learn · TensorFlow · Apache Spark · OpenCV · Vision-Language Models (VLMs)
 
-**Data & Analytics:**  
-Pandas · NumPy · Matplotlib · Tableau  
+**Backend & APIs:**  
+FastAPI · Flask · REST APIs
 
-**Cloud & Deployment:**  
-AWS (EC2, S3, SageMaker) · Flask · FastAPI  
+**Cloud & Data:**  
+AWS (EC2, S3, SageMaker) · PostgreSQL · MongoDB
 
-**Databases:**  
-PostgreSQL · MySQL · MongoDB
+**Additional Tools:**  
+Flutter · React · Tableau · Figma
+
+---
+
+## 🚀 Featured Work  
+- **LLM + GNN Integration for Renewable Energy**  
+  Industry-sponsored capstone combining LLMs with **MoFlow** and **DimeNet++** for molecular generation and property prediction  
+
+- **CooperLM-354M**  
+  Trained a custom **354M parameter GPT-style language model** using the Hugging Face ecosystem  
+
+- **Context-Aware Anime Recommender**  
+  Built a Transformer-based recommender with personalized feedback and explainable outputs  
+
+- **Salary Predictor - Multi-Language ML Pipeline**  
+  Built a cross-language ML system using **Julia, Go, Python, Bash, and SQLite**  
 
 ---
 
