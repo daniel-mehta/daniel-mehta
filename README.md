@@ -1,5 +1,5 @@
 # 👋 Hey, I'm Daniel Mehta
-
+![](https://komarev.com/ghpvc/?username=your-github-username&color=red)
 ## 🧠 About Me  
 Applied AI Engineer focused on **LLM systems, APIs, and backend development**  
 
